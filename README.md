@@ -10,6 +10,10 @@ npm install native-with-fallback
 yarn add native-with-fallback
 ```
 
+## When To Use
+
+When users need to chekc is given value is number or find index of matching value in array or find a matching value in the given array.
+
 ## 🔨 Usage
 
 ```js
@@ -20,10 +24,6 @@ isInteger(5);
 const normalArray = [1, 2, 3, 4, 5];
 findIndex(normalArray, (value)=>value===2);
 ```
-
-## When To Use
-
-When users need to chekc is given value is number or find index of matching value in array or find a matching value in the given array.
 
 ## API
 
