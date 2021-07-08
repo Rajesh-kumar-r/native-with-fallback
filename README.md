@@ -3,11 +3,11 @@
 ## 📦 Install
 
 ```bash
-npm install antd
+npm install native-with-fallback
 ```
 
 ```bash
-yarn add antd
+yarn add native-with-fallback
 ```
 
 ## 🔨 Usage
