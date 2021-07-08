@@ -1,6 +1,6 @@
 {
   "name": "native-with-fallback",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "native js functions with fallback",
   "main": "index.js",
   "scripts": {
