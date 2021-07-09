@@ -12,7 +12,7 @@ yarn add native-with-fallback
 
 ## When To Use
 
-When users need to chekc is given value is number or find index of matching value in array or find a matching value in the given array.
+When users need to check the given value is number or find index of matching value in an array or find a matching value in the given array.
 
 ## 🔨 Usage
 
