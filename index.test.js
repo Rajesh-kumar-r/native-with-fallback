@@ -2,8 +2,8 @@ const {isInteger, findIndex, find} = require('./index');
 const normalArray = [1, 2, 3, 4, 5];
 const arrayOfObject = [
   {name: 'Rajesh', role: 'developer'},
-  {name: 'Chandraprakaash', role: 'developer'},
-  {name: 'Rajesh', role: 'developer'},
+  {name: 'Chandra Prakaash', role: 'developer'},
+  {name: 'Prakash', role: 'developer'},
 ];
 
 test('check is given value is number', () => {
